@@ -1,3 +1,5 @@
+note: Right now it will just have the release
+
 
 # This is the respository for Satori Core
 
