@@ -21,7 +21,7 @@ Satori Core is released under the terms of the MIT license. See [COPYING](COPYIN
 
 #### Please jon us on Discord at https://discord.gg/M3h86ZckQV
 
-#### Follow us on Twitter at https://twitter.com/EvrFoundation
+#### Follow us on Twitter at https://twitter.com/Satorinetio
 
 
 ### About Satori
