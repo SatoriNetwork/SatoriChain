@@ -19,7 +19,7 @@ Satori Core is released under the terms of the MIT license. See [COPYING](COPYIN
 
 #### The primary website for Satori is at https://satoriassociation.org
 
-#### Please jon us on Discord at https://discord.gg/M3h86ZckQV
+#### Please jon us on Discord at https://discord.gg/satoriassociation
 
 #### Follow us on X at https://x.com/SatoriAssoc
 
